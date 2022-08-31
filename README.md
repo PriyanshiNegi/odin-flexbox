@@ -1,2 +1,2 @@
 # odin-flexbox
-Flexbox Assignment for Odin Project
+Using Flexbox to create a landing page.
